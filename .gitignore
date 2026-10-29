@@ -3,6 +3,6 @@ __pycache__/
 *.py[cod]
 .pytest_cache/
 .coverage
-.env
 .idea/
-.vscode/
+config.bat
+node_modules
